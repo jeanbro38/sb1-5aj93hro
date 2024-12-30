@@ -1,0 +1,7 @@
+make logout button
+make the billing
+how can I give the admin role
+mail verification not receiving + add return to login button on the verification mail page
+make the setting page that we can see on the user dashboard
+make ticket page on user dashboard were user can create edit and close ticket
+set error message when login incorrect
